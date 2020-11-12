@@ -1,6 +1,6 @@
 # Eat-Da-Burger! 
 
-[![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/employee-tracker/issues) &nbsp;  
+[![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/employee-tracker/issues)  
 ![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)  
 
 
