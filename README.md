@@ -2,7 +2,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/burger/issues) &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/burger/stargazers) &nbsp;
-[![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)
   
 ## Description
 >A burger logging system with MySQL, Node, Express, Handlebars and a homemade ORM. Record which burgers you want to eat, then eat them and move them over to the completed column.  Application is deployed on Heroku at the following website address: https://heroku.....
