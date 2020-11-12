@@ -1,4 +1,4 @@
-# Eat-Da-Burger! 
+# Eat-Da-Burger! :hamburger:
 
 [![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/burger/issues) &nbsp;
 [![GitHub stars](https://img.shields.io/github/stars/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/burger/stargazers) &nbsp;
