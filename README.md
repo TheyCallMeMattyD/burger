@@ -1,9 +1,9 @@
 # Eat-Da-Burger! 
 
-[![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/employee-tracker/issues)  
-![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)  
-
-
+[![GitHub issues](https://img.shields.io/github/issues/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/burger/issues) &nbsp;
+[![GitHub stars](https://img.shields.io/github/stars/TheyCallMeMattyD/burger?style=for-the-badge)](https://github.com/TheyCallMeMattyD/burger/stargazers) &nbsp;
+[![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)
+  
 ## Description
 >  A Content Management System (CMS) that enables a company to view and update/delete employee records.
   
