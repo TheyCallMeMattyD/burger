@@ -1,6 +1,6 @@
 USE burgers_db;
 
------ Burger Seeds -----
+/* ----- Burger Seeds ----- */
 
 INSERT INTO burgers (burger_name)
 VALUES ("Cheeseburger");
