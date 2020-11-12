@@ -19,16 +19,19 @@
 >9. [Questions?](#Questions?)
   
 ## Installation
->Please install required dependencies using the following code: `npm install mysql`, `npm install inquirer`, and `npm install console.table`.  
+>Please install required dependencies using the following code: `npm install mysql`and `npm install express`.  
 >  
 >You must have an instance of mySQL running in either the terminal or mySQL workbench environments.
   
 ## Usage
->Once you have installed the required dependencies, run the app using the following code in your terminal: `node app.js`.  
+>Once you have installed the required dependencies, run the app using the following code in your terminal: `node server.js`.  
 
 ## Technologies
 >This application was created with:  
->  
+> Node.js  
+> Express 
+> Handlebars  
+> ORM  
   
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
