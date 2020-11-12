@@ -5,7 +5,7 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)
   
 ## Description
->  A Content Management System (CMS) that enables a company to view and update/delete employee records.
+>A burger logging system with MySQL, Node, Express, Handlebars and a homemade ORM. Record which burgers you want to eat, then eat them and move them over to the completed column.  
   
 ## Table of Contents
 >1. [Title](#Title)
