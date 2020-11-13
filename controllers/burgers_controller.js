@@ -2,7 +2,7 @@ const express = require("express");
 
 const router = express.Router();
 
-const burger = require("../models/burgers.js");
+const burger = require("./models/burgers.js");
 
 // GET route to display ALL burgers
 router.get("/", function(req, res) {
