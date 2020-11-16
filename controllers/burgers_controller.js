@@ -1,8 +1,11 @@
-const express = require("express");
+const express = require('express');
 
 const router = express.Router();
 
-const burger = require("../models/burgers.js");
+// Import the model to use its DB functions
+const burger = require('../models/burgers.js');
+
+// All Routes
 
 // GET route to display ALL burgers
 router.get("/", function(req, res) {
@@ -59,8 +62,5 @@ router.delete("/api/burgers/:id", function(req, res) {
     });
 });
 
-// Routes
-
-// create router for the app
-
+// Export routes for server.js to use.
 module.exports = router;

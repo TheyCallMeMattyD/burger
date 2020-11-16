@@ -1,3 +1,4 @@
+// Import mySQL connection
 const connection = require('./connection.js');
 
 // Helper function for SQL syntax
@@ -39,9 +40,9 @@ const orm = {
     all: function(tableInput, cb) {
         let queryString = "SELECT * FROM " + tableInput + ";";
         connection.query(queryString, function(err, result) {
-            // if (err) {
-            //     throw err;
-            // }
+            if (err) {
+                throw err;
+            }
             cb(result);
         });
     },
@@ -98,6 +99,5 @@ const orm = {
     }
 };
 
-
-
+// Export the orm object for the model (burgers.js).
 module.exports = orm;
