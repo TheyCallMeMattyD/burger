@@ -36,23 +36,16 @@ li {
 }
 
 
-/* Sticky Footer */
+/* Footer */
 
 .footer {
     position: fixed;
+    padding: 0.8rem;
+    left: 0;
     bottom: 0;
     width: 100%;
-    /* line-height: 60px; */
-    background-color: #f4e1c1;
-}
-
-.footer>.container {
-    margin-top: 15px;
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-left: 15px;
-}
-
-.text-muted {
-    color: #b31c20!important;
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    z-index: 1;
 }
