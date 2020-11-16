@@ -25,7 +25,7 @@
   
 ## Usage
 >Once you have installed the required dependencies, run the app using the following code in your terminal: `node server.js`.  
->OR... if you'd just like to use the app on the Heroku website host, you can access it here:
+>OR... if you'd just like to use the app on the Heroku website host, you can access it here:  
 >https://nameless-taiga-27305.herokuapp.com/  
 
 ## Technologies
