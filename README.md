@@ -21,9 +21,9 @@
 >9. [Questions?](#Questions?)
   
 ## Installation
->Please install required dependencies using the following code: `npm install mysql`and `npm install express`.  
+>Please install required dependencies using the following code: `npm install mysql`, `npm install express`, and `npm install express-handlebars`.  
 >  
->You must have an instance of mySQL running in either the terminal or mySQL workbench environments.
+>For localHost deployement, you must have an instance of mySQL running in either the terminal or mySQL workbench environments.
   
 ## Usage
 >Once you have installed the required dependencies, run the app using the following code in your terminal: `node server.js`.  
