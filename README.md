@@ -43,8 +43,9 @@
 >Please make sure to update tests as appropriate.
 
 ## Tests
->### Here's a GIF of the 'View all Records' functionality:  
+>### Here's a screenshot:  
 >  
+  
 ## Questions  
 >Please direct all questions to:  
 TheMattyD@outlook.com<br/>  
