@@ -5,7 +5,9 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/theycallmemattyd/burger?style=for-the-badge)
   
 ## Description
->A burger logging system with MySQL, Node, Express, Handlebars and a homemade ORM. Record which burgers you want to eat, then eat them and move them over to the completed column.  Application is deployed on Heroku at the following website address: https://heroku.....
+>A burger logging system with MySQL, Node, Express, Handlebars and a homemade ORM. Record which burgers you want to eat, then eat them and move them over to the completed column.  Application is deployed on Heroku at the following website address: https://nameless-taiga-27305.herokuapp.com/  
+
+>
   
 ## Table of Contents
 >1. [Title](#Title)
@@ -46,7 +48,7 @@
 
 ## Tests
 >### Here's a screenshot:  
->![Screen Shot 2020-11-15 at 9 18 31 PM](https://user-images.githubusercontent.com/66084799/99206001-41542080-2788-11eb-820b-b4e93d0da996.png) 
+
   
 ## Questions  
 >Please direct all questions to:  
